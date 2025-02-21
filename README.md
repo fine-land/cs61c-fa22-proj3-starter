@@ -5,5 +5,6 @@
 - part-a done
 - part-b done
 
-cpu-cisc  2stages-pipline cpu
-nonpip-cpu.cisc  nonpiplining cpu
+I make a CPU ! 
+- cpu.circ:  2stages-piplined cpu
+- cpu_nonpipeline.circ:  nonpiplined cpu
